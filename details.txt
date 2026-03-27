@@ -1,0 +1,15 @@
+lat=31.5204
+long=74.3587
+city=Lahore
+province=Punjab
+country=Pakistan
+title=Custom Display Boxes Wholesale - Premium Quality
+headline=Best Custom Packaging Manufacturer in Lahore
+desc=We offer high-quality custom display boxes. Contact us for wholesale rates.
+keywords=custom boxes, packaging, wholesale, display boxes
+author=Infinity Custom Boxes
+copyright=Copyright (c) 2026 Infinity Custom Boxes
+credit=Infinity Custom Boxes
+website=[https://www.codexpackaging.com](https://www.codexpackaging.com)
+make=Canon
+model=Canon EOS 5D Mark IV
